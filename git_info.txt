@@ -1,0 +1,4 @@
+Assuming all terminal bash aliases are set up properly, the bash command git-update will add all new files, commit new changes, and push new commits, all automatically.
+
+To add this bash alias if it is not currently active, follow the instruction in the link below.
+https://www.notion.so/Bash-Alias-for-Git-b30ae2e6899944e8b97a0a4cec847c9d
